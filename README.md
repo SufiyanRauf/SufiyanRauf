@@ -1,6 +1,6 @@
 Hi, I'm Sufiyan
 
-I'm a Computer Science graduate student and full-stack developer. I build AI-powered web apps with Next.js, Python, and RAG, and I'm currently looking for software engineering internships.
+I'm a Computer Science student and full-stack developer. I build AI-powered web apps with Next.js, Python, and RAG, and I'm currently looking for software engineering internships.
 
 - Portfolio: https://sufiyanrauf.github.io/Landing-Page/
 - LinkedIn: https://www.linkedin.com/in/sufiyan-rauf/
