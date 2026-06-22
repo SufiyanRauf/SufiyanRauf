@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Sufiyan
 
-<!--
-**SufiyanRauf/SufiyanRauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate student and full-stack developer. I build AI-powered web apps with Next.js, Python, and RAG, and I'm currently looking for software engineering internships.
 
-Here are some ideas to get you started:
+- Portfolio: https://sufiyanrauf.github.io/Landing-Page/
+- LinkedIn: https://www.linkedin.com/in/sufiyan-rauf/
+- Email: sufiyan.s.rauf@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured projects
+
+- AI Interview Prep Assistant (https://github.com/SufiyanRauf/AI-Interview-Prep-Assistant): a RAG chatbot for practicing technical interviews, built with Next.js, Google Gemini, and Pinecone.
+- Multimodal AI Pantry & Recipe Generator (https://github.com/SufiyanRauf/Pantry-Tracker-Project): adds pantry items from photos using Gemini's vision model and generates recipes, built with Next.js and Firebase.
+- SparkCards (https://github.com/SufiyanRauf/Flashcard-SAAS-Project): an AI flashcard SaaS with Clerk authentication and Stripe billing, built with Next.js and Firestore.
+
+Tools I work with
+
+Python, JavaScript (ES6+), Next.js, React, Node.js, Generative AI, RAG, LangChain, Pinecone, Firebase/Firestore, Stripe, Git, Vercel
+
